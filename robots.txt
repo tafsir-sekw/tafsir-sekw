@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tafsir-sekw.github.io/sitemap.xml
